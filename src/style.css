@@ -4,6 +4,7 @@ body{
     font-weight: 900;
     padding-top: 0px;
     text-transform: uppercase;
+    background: #1B1C1C;
 }
 .container {
   max-width: 600px;
