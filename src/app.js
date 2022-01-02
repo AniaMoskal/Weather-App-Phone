@@ -86,7 +86,7 @@ function displayForecast(response)
       if (index <=5 && index > 0) {
         forecastHTML = forecastHTML + `
                 <div class="col">
-                    <div class="card smallweathercard" style="width: 100px;">
+                    <div class="card smallweathercard" style="width: 80px;">
                         <div class="card-body">
                             <div class="smallday">
                                 ${formatDay(forecastDay.dt)}
